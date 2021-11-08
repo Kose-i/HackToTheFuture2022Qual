@@ -1,1 +1,4 @@
-first_sample.cpp -> 75732
+a.cpp [random assign] -> 75732
+b.cpp [weighted task] -> 80877
+
+c.cpp [weighted task&person score]
